@@ -1,0 +1,22 @@
+obj/local/armeabi/objs/tankaijni/tankaijni.o: jni/tankaijni.c \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/jni.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/GLES/gl.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/GLES/glplatform.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/stdint.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/sys/_types.h \
+ D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/machine/_types.h
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/jni.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/GLES/gl.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/GLES/glplatform.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/stdint.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/sys/_types.h:
+
+D:/AndroidIDE/android-ndk-r8e-windows-x86_64/android-ndk-r8e/platforms/android-14/arch-arm/usr/include/machine/_types.h:
